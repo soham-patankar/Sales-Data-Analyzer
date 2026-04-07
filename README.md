@@ -36,22 +36,6 @@ This project is a Python-based automation script that cleans and processes raw s
 
 ---
 
-## ▶️ How to Run
-
-### 1. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Run the script
-
-```bash
-python main.py
-```
-
----
-
 ## 📂 Input
 
 `sales.csv` – Raw sales dataset containing:
@@ -82,18 +66,3 @@ python main.py
 * Automating data preprocessing
 * Preparing datasets for analysis
 * Freelance data cleaning tasks
-
----
-
-## 🚀 Future Improvements
-
-* Add sorting (e.g., top customers)
-* Generate summary statistics
-* Add command-line arguments (CLI support)
-* Support Excel input/output
-
----
-
-## 👨‍💻 Author
-
-Python Automation Enthusiast building real-world data solutions.
